@@ -12,5 +12,5 @@
  + python data_visualization_agriculture.py
 
 # Video:
-- [ulur.in/webagridata]
+- [http://ulur.in/webagridata]
 
