@@ -1,7 +1,7 @@
 # Visualization-of-Agricultural-Data
 
 - Agricultural Data downloaded from:
-  [https://ourworldindata.org/]
+  https://ourworldindata.org/
 
 # Requirements:
  + Python 3.x
@@ -12,5 +12,5 @@
  + python data_visualization_agriculture.py
 
 # Video:
-- [http://ulur.in/webagridata]
+https://www.youtube.com/watch?v=XeDXEDjdtvs
 
